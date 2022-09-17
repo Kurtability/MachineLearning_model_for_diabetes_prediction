@@ -1,9 +1,9 @@
 # MachineLearning_model_for_diabetes_prediction
 
-##Introduction:
+## Introduction:
 Many people nowadays suffer from diabetes, a group of metabolic diseases where there are high blood sugar levels over a long period of time. Patients suffering from diabetes exhibit symptoms such as frequent urination, increased thirst, and increased hunger. The objective of this study is to train an accurate model based on the diagnostic measurements within the dataset which aids the doctors to diagnose whether or not a patient has diabetes.
 The study is important because once the accuracy of the predictions of the trained model becomes higher than the accuracy of the diagnoses of the doctors, the model can then be used as a robust tool by the doctor to diagnose patients more efficiently and more accurately. Therefore, more lives will be saved.
 
-##Data:
+## Data:
 The title of the dataset is called Pima Indians Diabetes Database and the original owner of the dataset is National Institute of Diabetes and Digestive and Kidney diseases. However, the dataset has been modified for COMP3308 which replaced all missing values with averages. Furthermore, all patients within the dataset are female at least 21 years old of Pima Indian heritage. The dataset consisted of 8 medical predictor variables and 1 class variable which is the outcome and the number of instances for the dataset is 768. The variables involved in the dataset are number of times the patient has been pregnant, plasma glucose concentration a 2 hours in an oral glucose tolerance test, diastolic blood pressure(mm Hg), triceps skin fold thickness(mm), 2-hour seem insulin(mu U/ml), body mass index, diabetes pedigree function and age(years).
 CFS stands correlation feature selection, its essential in the field of machine learning because it provides a way to create a model that only includes the most informative features. In the world of data science, there are countless amounts of features sometimes, CFS can resolve this dilemma. There are many benefits of CFS, including the reduction of the variation of the model, and the reduction of the computational cost and the time of the training model. Furthermore, CFS increases the reliability, stability, and classification accuracy of the model.
